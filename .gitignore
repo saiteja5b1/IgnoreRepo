@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+appl.log.txt
+
 # Log file
 *.log
 
